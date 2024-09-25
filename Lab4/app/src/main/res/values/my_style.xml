@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButton">
+        <item name="android:backgroundTint">@color/ugly_green</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="MyButton.Large">
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>
